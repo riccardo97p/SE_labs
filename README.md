@@ -1,1 +1,3 @@
-# SE_labs
+# Software Engineering
+labs by Mecella
+Sapienza University - Engineering in Computer Science
